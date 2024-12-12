@@ -1,9 +1,6 @@
 import hashlib
 import time
 
-import hashlib
-import time
-
 class User:
     def __init__(self, nickname, password, age):
         self.nickname = nickname
